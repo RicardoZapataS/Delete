@@ -22,6 +22,7 @@ git config --global user.email "Tu correo"
 [Laravel Extension Pack](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-extension-pack)
 
 Opcional
+
 [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 
